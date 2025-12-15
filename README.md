@@ -99,8 +99,6 @@ The goal is to transform raw sales data into actionable business insights that s
 
 •	Optimize shipping modes to balance cost efficiency and customer satisfaction.
 
-📸 Dashboard Preview
-
 ### 🚀 Learning Outcome
 
 This project strengthened my skills in:
