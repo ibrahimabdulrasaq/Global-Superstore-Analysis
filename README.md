@@ -24,7 +24,7 @@
 
 ## 📸 Dashboard Overview
 
-<img width="894" height="505" alt="sales-performance-overview" src="https://github.com/user-attachments/assets/46cb10f8-637d-4523-8e6b-16df3f29a5e7" />
+<img width="795" height="463" alt="Screenshot 2026-01-22 161340" src="https://github.com/user-attachments/assets/0acf9d83-2510-421a-abc7-b32b1dcd962f" />
 
 
 <img width="838" height="476" alt="regional-performance" src="https://github.com/user-attachments/assets/9689081d-a61c-4bbc-815a-9eecb6eb439b" />
@@ -55,8 +55,6 @@ The goal is to transform raw sales data into actionable business insights that s
 •	Power Query
 
 •	DAX
-
-•	Microsoft Excel (data source)
 
 ## 🔄 Data Preparation & Modeling
 
@@ -142,5 +140,3 @@ Dataset: Global Superstore 2016(Kaggle Dataset)
 Tool: Microsoft Power BI
 
 Author: Ibrahim Ademola Abdulrasaq
-
-Year of Analysis: 2025
